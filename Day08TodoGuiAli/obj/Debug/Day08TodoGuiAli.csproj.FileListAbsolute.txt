@@ -1,0 +1,15 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\MainWindow.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\App.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli_MarkupCompile.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli_MarkupCompile.lref
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\bin\Debug\Day08TodoGuiAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\bin\Debug\Day08TodoGuiAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\bin\Debug\Day08TodoGuiAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\MainWindow.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli.g.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli.Properties.Resources.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli.csproj.GenerateResource.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day08TodoGuiAli\obj\Debug\Day08TodoGuiAli.pdb
