@@ -1,0 +1,7 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Midterm\MidtermMulti\bin\Debug\MidtermMulti.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Midterm\MidtermMulti\bin\Debug\MidtermMulti.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Midterm\MidtermMulti\bin\Debug\MidtermMulti.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Midterm\MidtermMulti\obj\Debug\MidtermMulti.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Midterm\MidtermMulti\obj\Debug\MidtermMulti.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Midterm\MidtermMulti\obj\Debug\MidtermMulti.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Midterm\MidtermMulti\obj\Debug\MidtermMulti.pdb
