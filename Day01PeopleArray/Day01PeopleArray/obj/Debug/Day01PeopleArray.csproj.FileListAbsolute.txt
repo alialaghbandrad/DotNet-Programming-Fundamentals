@@ -1,0 +1,7 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Teachers Github\Day01PeopleArray\Day01PeopleArray\bin\Debug\Day01PeopleArray.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Teachers Github\Day01PeopleArray\Day01PeopleArray\bin\Debug\Day01PeopleArray.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Teachers Github\Day01PeopleArray\Day01PeopleArray\bin\Debug\Day01PeopleArray.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Teachers Github\Day01PeopleArray\Day01PeopleArray\obj\Debug\Day01PeopleArray.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Teachers Github\Day01PeopleArray\Day01PeopleArray\obj\Debug\Day01PeopleArray.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Teachers Github\Day01PeopleArray\Day01PeopleArray\obj\Debug\Day01PeopleArray.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\Teachers Github\Day01PeopleArray\Day01PeopleArray\obj\Debug\Day01PeopleArray.pdb
