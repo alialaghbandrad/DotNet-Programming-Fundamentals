@@ -1,0 +1,45 @@
+﻿<Window x:Class="Day11TodoEFAli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day11TodoEFAli"
+        mc:Ignorable="d" Closing="Window_Closing" FontSize="18"
+        Title="MainWindow" Height="360" Width="600" MinHeight="300" MinWidth="480" MaxWidth="600">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" FontSize="18" Background="#232F3E" Height="32">
+            <MenuItem Header="_File" Foreground="White" Margin="5,5,5,5">
+                <MenuItem Header="_Export selected" Click="miExportSelected_Click" Foreground="Black"/>
+                <MenuItem Header="_Delete selected" Click="miDelete_Click" Foreground="Black"/>
+                <Separator/>
+                <MenuItem Header="_Exit" Click="miExit_Click" Foreground="Black"/>
+            </MenuItem>
+            <MenuItem Header="_Edit" Foreground="White" Margin="5,5,5,5">
+                <MenuItem Header="_Add Todo" Click="miAdd_Click" Foreground="Black"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom" Background="#232F3E" Foreground="White">
+            <StatusBarItem>
+                <TextBlock Name="lblCursorPosition" FontSize="14" Text="Program started ..."/>
+            </StatusBarItem>
+        </StatusBar>
+        <ListView Name="lvToDoList" MouseDoubleClick="lvToDoList_MouseDoubleClick">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Click="miRightclickDelete_Click" Header="Delete Todo"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="auto" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Task" Width="auto" DisplayMemberBinding="{Binding Task}"/>
+                    <GridViewColumn Header="Due Date" Width="auto" DisplayMemberBinding="{Binding DueDateCurrentCulture}" />
+                    <GridViewColumn Header="Status" Width="auto" DisplayMemberBinding="{Binding Status}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </DockPanel>
+
+
+</Window>
