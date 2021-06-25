@@ -1,0 +1,44 @@
+﻿<Window x:Class="Day09TodoWithDialogAli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day09TodoWithDialogAli"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="200" MinWidth="300" Height="255.556" Width="813">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_Export selected ..." />
+                    <Separator />
+                    <MenuItem Header="_Exit" />
+                </MenuItem>
+                <MenuItem Header="_Edit">
+                    <MenuItem Header="_Add task" Click="miEditAdd_Click"/>
+                </MenuItem>
+
+            </Menu>
+            <StatusBar DockPanel.Dock="Bottom">
+                <StatusBarItem>
+                    <TextBlock Name="lblCursorPosition" Text="Program started..."/>
+                </StatusBarItem>
+            </StatusBar>
+
+
+            <ListView Name="lvTaskList" Grid.Column="0" Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="20,0,20,10">
+                
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Task" Width="200" DisplayMemberBinding="{Binding Desc}" />
+                        <GridViewColumn Header="Diff" Width="200" DisplayMemberBinding="{Binding Diff}" />
+                        <GridViewColumn Header="Due date" Width="150" DisplayMemberBinding="{Binding DepartureDate}" />
+                        <GridViewColumn Header="Status" Width="150" DisplayMemberBinding="{Binding Status}" />
+                    </GridView>
+                </ListView.View>
+                
+            </ListView>
+            
+        </DockPanel>
+    </Grid>
+</Window>

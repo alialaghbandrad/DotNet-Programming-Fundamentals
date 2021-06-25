@@ -1,0 +1,17 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\MainWindow.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\App.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli_MarkupCompile.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli_MarkupCompile.lref
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\AddEditDialog.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\bin\Debug\Day09TodoWithDialogAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\bin\Debug\Day09TodoWithDialogAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\bin\Debug\Day09TodoWithDialogAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\MainWindow.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\AddEditDialog.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli.g.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli.Properties.Resources.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli.csproj.GenerateResource.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09TodoWithDialogAli\obj\Debug\Day09TodoWithDialogAli.pdb

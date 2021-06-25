@@ -1,0 +1,49 @@
+﻿<Window x:Class="Day09TodoWithDialogAli.AddEditDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day09TodoWithDialogAli"
+        mc:Ignorable="d"
+        Title="AddEditDialog" Height="350" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="8*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="1" Grid.Row="1" Height="240" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="6*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="3*" />
+            </Grid.RowDefinitions>
+            <Label Content="Task description:" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" />
+            <Label Content="Difficulty:" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Label Content="Due date:" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Width="80"/>
+            <Label Content="Status:" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Width="80"/>
+            <TextBox Name="tbTask" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" Width="138" Margin="0,3,0,3"/>
+            <DatePicker Name="dpDeparture" Grid.Column="1" Grid.Row="2" Margin="0,3,30,3"/>
+            <ComboBox Name="comboStatus" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" Width="140">
+                
+                <ComboBoxItem>Pending</ComboBoxItem>
+                <ComboBoxItem>Done</ComboBoxItem>
+                <ComboBoxItem>Delegated</ComboBoxItem> 
+            </ComboBox>
+            <StackPanel Grid.Column="1" Grid.Row="4" >
+                <Button Click="btAddTodo_Click" Content="Add Todo" HorizontalAlignment="Left" VerticalAlignment="Center" Width="120" Margin="0,15,0,5" />
+            </StackPanel>
+        </Grid>
+        <Button Content="Save Selected" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Margin="20,0,0,0"/>
+        <Slider Name="tbDiff" IsSnapToTickEnabled="True" TickPlacement="BottomRight" TickFrequency="0.5" Minimum="15" Maximum="35" Value="22" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="138" Margin="122,40,0,222.8"/>
+        <Label Content="{Binding StringFormat={}{0:0.0}, ElementName=tbDiff, Path=Value, UpdateSourceTrigger=PropertyChanged}" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" Margin="73,40,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.263,0.038" Width="44" Height="27"/>
+    </Grid>
+</Window>
