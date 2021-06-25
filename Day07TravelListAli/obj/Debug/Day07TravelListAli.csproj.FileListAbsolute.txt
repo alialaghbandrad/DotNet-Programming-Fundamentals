@@ -1,0 +1,15 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\MainWindow.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\App.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli_MarkupCompile.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli_MarkupCompile.lref
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\bin\Debug\Day07TravelListAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\bin\Debug\Day07TravelListAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\bin\Debug\Day07TravelListAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\MainWindow.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli.g.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli.Properties.Resources.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli.csproj.GenerateResource.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day07TravelListAli\obj\Debug\Day07TravelListAli.pdb
