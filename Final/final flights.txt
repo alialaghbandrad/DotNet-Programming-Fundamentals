@@ -1,0 +1,29 @@
+FINAL INSTRUCTIONS
+==================
+
+Create project "FinalFlights" WPF with DotNet Framework type
+
+Implement functionality as shown in the picture.
+
+Additional notes:
+* To implement "File->Save Selected" menu option use File Chooser to allow user to choose file to save to. ListView/GridView allows multiple selection.
+* Main window must be resizable (using DockPanel) despite of how it looks in the illustration.
+* ListView with GridView must be used to show ALL columns of Flights. You do NOT need to implement ToString() despite it being mentioned in the picture.
+* Only one item is deleted at a time.
+* Dialog window should be called AddEditDialog
+* Date must be shown using Date Picker in AddEditDialog (ignore the format in the picture).
+* Ignore 'Id' both in the dialog and class Flight. Also there is NO MS SQL database.
+* Text "Save" button in AddEditDialog must be changed to "Add" when adding, "Update" when updating.
+* To edit an item user double-clicks on it and this displays AddEditDialog.
+* Data must be saved just before program exits to @"..\..\flights.txt" file using SaveDataToFile method.
+* Data must be loaded when program starts from the same file (if it exists) using LoadDataFromFile method.
+
+What to submit:
+* Close Visual Studio
+* Create ZIP file of Project's directory (ONLY ZIP, no others)
+* Upload ZIP file to LEA.
+
+
+
+------------ 
+IGNORE this: Teacher's personal note: version simplified, no DB, no CsvHelper.

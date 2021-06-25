@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day09TodoWithDialog", "Day09TodoWithDialog.csproj", "{EDB0A680-9965-47E0-9427-37B3CE74BF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB0A680-9965-47E0-9427-37B3CE74BF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB0A680-9965-47E0-9427-37B3CE74BF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB0A680-9965-47E0-9427-37B3CE74BF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB0A680-9965-47E0-9427-37B3CE74BF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B34DC6-62B8-45C0-8A98-99BA8C5C696A}
+	EndGlobalSection
+EndGlobal

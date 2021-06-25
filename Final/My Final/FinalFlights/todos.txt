@@ -1,0 +1,6 @@
+Wash a dog;5;2021-04-03;Pending
+Clean backyard;3;2021-04-02;Pending
+Buy milk;1;2021-03-25;Delegated
+Dinner;1;2021-03-27;Pending
+Explain this well;4;2021-03-29;Pending
+finish it;1;2021-03-29;Delegated
