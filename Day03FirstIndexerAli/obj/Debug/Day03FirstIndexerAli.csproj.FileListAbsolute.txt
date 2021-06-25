@@ -1,0 +1,7 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day03FirstIndexerAli\bin\Debug\Day03FirstIndexerAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day03FirstIndexerAli\bin\Debug\Day03FirstIndexerAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day03FirstIndexerAli\bin\Debug\Day03FirstIndexerAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day03FirstIndexerAli\obj\Debug\Day03FirstIndexerAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day03FirstIndexerAli\obj\Debug\Day03FirstIndexerAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day03FirstIndexerAli\obj\Debug\Day03FirstIndexerAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day03FirstIndexerAli\obj\Debug\Day03FirstIndexerAli.pdb
