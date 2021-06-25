@@ -1,0 +1,15 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\bin\Debug\Day05AllInputsAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\bin\Debug\Day05AllInputsAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\bin\Debug\Day05AllInputsAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\MainWindow.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\App.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli_MarkupCompile.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli_MarkupCompile.lref
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\MainWindow.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli.g.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli.Properties.Resources.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli.csproj.GenerateResource.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day05AllInputsAli\obj\Debug\Day05AllInputsAli.pdb
