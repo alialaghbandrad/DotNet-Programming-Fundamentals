@@ -1,0 +1,14 @@
+Person;Jerry;;
+Person;Jim;2342;
+Car;BMW;55
+
+Student;;;;
+Person;Jerry;23
+Person;Jerry2222;223
+Teacher;Randy;66;PhysEd;33
+Person;Timmy;44
+Student;Mary;34;Nursing;3.5
+Student;Martin;31;Math;4.0
+Teacher;Larry;51;Physics;22
+Student;MaryX;21;Nursing;2.9
+Student;MartinXYZ;61;Math;3.3
