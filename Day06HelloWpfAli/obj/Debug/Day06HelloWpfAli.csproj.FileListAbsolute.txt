@@ -1,0 +1,15 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\bin\Debug\Day06HelloWpfAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\bin\Debug\Day06HelloWpfAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\bin\Debug\Day06HelloWpfAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\MainWindow.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\App.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli_MarkupCompile.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli_MarkupCompile.lref
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\MainWindow.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli.g.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli.Properties.Resources.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli.csproj.GenerateResource.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06HelloWpfAli\obj\Debug\Day06HelloWpfAli.pdb
