@@ -1,0 +1,17 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\MainWindow.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\App.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli_MarkupCompile.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli_MarkupCompile.lref
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\bin\Debug\Day09FriendsCustDlgAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\bin\Debug\Day09FriendsCustDlgAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\bin\Debug\Day09FriendsCustDlgAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\MainWindow.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli.g.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli.Properties.Resources.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli.csproj.GenerateResource.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\Day09FriendsCustDlgAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\AddEditDialog.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day09FriendsCustDlgAli\obj\Debug\AddEditDialog.baml
