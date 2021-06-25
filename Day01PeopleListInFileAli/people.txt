@@ -1,0 +1,3 @@
+Ali; 36;  Montaghi
+Shali; 40;  Los Angeles
+Taghi Taxi; 50;  Kashoon

@@ -1,0 +1,7 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day01PeopleListInFileAli\bin\Debug\Day01PeopleListInFileAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day01PeopleListInFileAli\bin\Debug\Day01PeopleListInFileAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day01PeopleListInFileAli\bin\Debug\Day01PeopleListInFileAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day01PeopleListInFileAli\obj\Debug\Day01PeopleListInFileAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day01PeopleListInFileAli\obj\Debug\Day01PeopleListInFileAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day01PeopleListInFileAli\obj\Debug\Day01PeopleListInFileAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day01PeopleListInFileAli\obj\Debug\Day01PeopleListInFileAli.pdb
