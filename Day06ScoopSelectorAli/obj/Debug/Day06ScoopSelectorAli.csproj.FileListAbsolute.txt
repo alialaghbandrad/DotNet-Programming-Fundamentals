@@ -1,0 +1,15 @@
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\bin\Debug\Day06ScoopSelectorAli.exe.config
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\bin\Debug\Day06ScoopSelectorAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\bin\Debug\Day06ScoopSelectorAli.pdb
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli.csprojAssemblyReference.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\MainWindow.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\App.g.cs
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli_MarkupCompile.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli_MarkupCompile.lref
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\MainWindow.baml
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli.g.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli.Properties.Resources.resources
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli.csproj.GenerateResource.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli.csproj.CoreCompileInputs.cache
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli.exe
+C:\Users\alagh\Documents\Web developer\John Abbot\Courses\11-Net Programming\My Github\Day06ScoopSelectorAli\obj\Debug\Day06ScoopSelectorAli.pdb
